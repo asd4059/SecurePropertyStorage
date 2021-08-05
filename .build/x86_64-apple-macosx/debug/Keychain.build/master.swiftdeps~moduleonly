@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "5f0d97c075d9aa3d301633a613ad49fc"
+build_time: [1628199101, 266628000]
+inputs:
+  "/Users/vagrant/git/Sources/Keychain/CryptoData.swift": [1628198984, 929993625]
+  "/Users/vagrant/git/Sources/Keychain/Keychain.swift": [1628198984, 930427299]
+  "/Users/vagrant/git/Sources/Keychain/KeychainError.swift": [1628198984, 930707233]
+  "/Users/vagrant/git/Sources/Keychain/KeychainStorage.swift": [1628198984, 930990156]
