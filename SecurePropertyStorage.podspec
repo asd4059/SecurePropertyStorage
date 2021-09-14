@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name             = "SecurePropertyStorage"
   s.version          = "0.5.0"
   s.summary          = "Helps you define secure storages for your properties using Swift property wrappers."
-  s.swift_version    = "5.0"
+  s.swift_version    = "5.3"
 
   s.description      = <<-DESC
     Helps you define secure storages for your properties using Swift property wrappers.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.tvos.deployment_target = '13.0'
   s.watchos.deployment_target = '6.0'
 
-  s.source_files = 'Sources/*.swift'
+  s.source_files = 'Sources/**/*.swift'
 
   s.frameworks = 'Foundation'
 
